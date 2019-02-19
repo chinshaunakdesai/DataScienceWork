@@ -14,7 +14,7 @@ In the script you have the following snipped:
 
 # SETTINGS
 INPUT_FILE = 'retail_25k.dat'  # Input file local name or path
-N = 3                          # The length of combination performed (Careful above 3)
+N = 3                          # The length of combination performed
 SIGMA = 4                      # The filter of the combined data
 OUTPUT_FILE = 'output.txt'     # Name of the desired output file
 
